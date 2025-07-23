@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+openai
+python-dotenv
+Flask-SQLAlchemy
+psycopg2-binary
+gunicorn
+SQLAlchemy
+Flask-Limiter
+Flask-Talisman
+Flask-JWT-Extended
