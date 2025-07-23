@@ -9,3 +9,4 @@ SQLAlchemy
 Flask-Limiter
 Flask-Talisman
 Flask-JWT-Extended
+stripe
